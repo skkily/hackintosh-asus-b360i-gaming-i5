@@ -627,7 +627,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Auto</string>
+			<string>Default</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -692,7 +692,28 @@
 			<string>Optional</string>
 		</dict>
 		<key>Tools</key>
-		<array/>
+		<array>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Auxiliary</key>
+				<false/>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>Flavour</key>
+				<string>Auto</string>
+				<key>Name</key>
+				<string>CleanNvram</string>
+				<key>Path</key>
+				<string>CleanNvram.efi</string>
+				<key>RealPath</key>
+				<false/>
+				<key>TextMode</key>
+				<false/>
+			</dict>
+		</array>
 	</dict>
 	<key>NVRAM</key>
 	<dict>
@@ -811,9 +832,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z14ZZJWDW</string>
+			<string>C02Z50ZGJWDW</string>
 			<key>SystemUUID</key>
-			<string>A7C1188F-3D83-4322-BF4F-0FF591755D79</string>
+			<string>FB35D19E-98B1-463B-A1EC-29B0C664115C</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -822,7 +843,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02927100GUKGQGA8</string>
+			<string>C02931200GUKGQG1H</string>
 			<key>ProcessorType</key>
 			<integer>1541</integer>
 			<key>ROM</key>
@@ -834,9 +855,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z14ZZJWDW</string>
+			<string>C02Z50ZGJWDW</string>
 			<key>SystemUUID</key>
-			<string>A7C1188F-3D83-4322-BF4F-0FF591755D79</string>
+			<string>FB35D19E-98B1-463B-A1EC-29B0C664115C</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -847,13 +868,13 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f//f/wgAAAA=</data>
 			<key>MLB</key>
-			<string>C02927100GUKGQGA8</string>
+			<string>C02931200GUKGQG1H</string>
 			<key>ROM</key>
 			<data>icX3dV15</data>
 			<key>SystemSerialNumber</key>
-			<string>C02Z14ZZJWDW</string>
+			<string>C02Z50ZGJWDW</string>
 			<key>SystemUUID</key>
-			<string>A7C1188F-3D83-4322-BF4F-0FF591755D79</string>
+			<string>FB35D19E-98B1-463B-A1EC-29B0C664115C</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -872,7 +893,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-63001698E7A34814</string>
 			<key>BoardSerialNumber</key>
-			<string>C02927100GUKGQGA8</string>
+			<string>C02931200GUKGQG1H</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -882,7 +903,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02Z14ZZJWDW</string>
+			<string>C02Z50ZGJWDW</string>
 			<key>ChassisType</key>
 			<integer>13</integer>
 			<key>ChassisVersion</key>
@@ -906,9 +927,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z14ZZJWDW</string>
+			<string>C02Z50ZGJWDW</string>
 			<key>SystemUUID</key>
-			<string>A7C1188F-3D83-4322-BF4F-0FF591755D79</string>
+			<string>FB35D19E-98B1-463B-A1EC-29B0C664115C</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
